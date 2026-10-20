@@ -6,8 +6,8 @@ class Model:
     def __validate_input(self) -> None:
         pass
     
-    def fit(x: ArrayLike, y: ArrayLike) -> None:
+    def fit(self, x: ArrayLike, y: ArrayLike) -> None:
         pass
     
-    def predict(x: ArrayLike) -> ArrayLike:
+    def predict(self, x: ArrayLike) -> ArrayLike:
             pass

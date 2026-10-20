@@ -1,4 +1,4 @@
-from src import linear_regression
+from src.regression import LinearRegression
 
 def main():
     print("Hello from esl!")
